@@ -1,0 +1,58 @@
+﻿  GeometricTransformer.cpp
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(13,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(16,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(32,19): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(32,16): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(40,107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(69,51): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(69,33): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(71,55): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(71,41): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(99,49): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(99,34): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(101,50): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(101,39): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(188,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(198,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\GeoImageProcessing\GeoImageProcessing\GeometricTransformer.cpp(235,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GeoImageProcessing.vcxproj -> C:\Users\Admin\source\repos\GeoImageProcessing\x64\Debug\GeoImageProcessing.exe
